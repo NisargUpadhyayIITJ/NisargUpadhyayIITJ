@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVmYTMyaHk5eHc4YWVzNDNiOG51YmZxcnRocXE3aXF1eDVmNWNsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e6tA359EUw2kqhOBHL/giphy.gif" width="300"/>
+</div>
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nisarg Upadhyay
 
 ## Machine Learning Enthusiast
