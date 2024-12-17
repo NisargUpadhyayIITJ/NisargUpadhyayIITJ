@@ -2,7 +2,31 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVmYTMyaHk5eHc4YWVzNDNiOG51YmZxcnRocXE3aXF1eDVmNWNsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e6tA359EUw2kqhOBHL/giphy.gif" width="200"/>
 </div>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nisarg Upadhyay
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nisarg-upadhyay-156643287/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@NisargUpadhyay-y4x">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://discord.com/users/nisarg4567">
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=NisargUpadhyayIITJ&style=flat-square&color=blue" alt=""/>
+
+</div>
+
+<h1 align="center">
+  Hi! My name is Nisarg Upadhyay
+</h1>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 
 ## Machine Learning Enthusiast
 
@@ -28,16 +52,6 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
-
-
-### Socials
-
-<p align="left">
-  <a href="https://discord.com/users/nisarg4567" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/></a>
-  <a href="https://www.linkedin.com/in/nisarg-upadhyay-156643287/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@NisargUpadhyay-y4x" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"/></a>
-  <a href="https://www.github.com/NisargUpadhyayIITJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
 </p>
 
 ### Badges
