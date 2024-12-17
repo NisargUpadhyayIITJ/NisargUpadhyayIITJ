@@ -65,4 +65,4 @@
 
 **Top Repositories**
 
-[![N-Queens-Game](https://github-readme-stats.vercel.app/api/pin/?username=NisargUpadhyayIITJ&repo=N-Queens-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/NisargUpadhyayIITJ/N-Queens-Game)
+[![DynARAG](https://github-readme-stats.vercel.app/api/pin/?username=NisargUpadhyayIITJ&repo=DynARAG&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/NisargUpadhyayIITJ/DynARAG)
