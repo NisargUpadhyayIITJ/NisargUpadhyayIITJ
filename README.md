@@ -30,7 +30,7 @@
 
 * 🌍  I'm based in Gujarat, India.
 * ✉️  You can contact me at [b23cs1075@iitj.ac.in](mailto:b23cs1075@iitj.ac.in)
-* 🧠  I'm learning Cursor
+* 🧠  I'm learning Computer Vision
 
 ---
 
