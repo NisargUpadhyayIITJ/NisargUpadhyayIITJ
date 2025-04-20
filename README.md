@@ -20,15 +20,18 @@
   Hi! My name is Nisarg Upadhyay
 </h1>
 
+---
+
 <p align="center">
   <a href="https://open.spotify.com/user/31h2eewzsj3m66jlodotwbo42ja4">
     <img src="https://novatorem-seven-plum.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify">
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="900" height="500"/>
 </div>
+-->
 
 ---
 
