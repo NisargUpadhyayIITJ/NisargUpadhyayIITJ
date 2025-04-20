@@ -20,8 +20,10 @@
   Hi! My name is Nisarg Upadhyay
 </h1>
 
-<div align="center">
-  [![Spotify](https://novatorem-seven-plum.vercel.app/api/spotify)](https://open.spotify.com/user/31h2eewzsj3m66jlodotwbo42ja4)
+<div style="text-align: center;">
+  <a href="https://open.spotify.com/user/31h2eewzsj3m66jlodotwbo42ja4">
+    <img src="https://novatorem-seven-plum.vercel.app/api/spotify" alt="Spotify">
+  </a>
 </div>
 
 
