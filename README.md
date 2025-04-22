@@ -1,6 +1,12 @@
+<img src="github_banner.png"></img>
+
+<br>
+
+<!--
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVmYTMyaHk5eHc4YWVzNDNiOG51YmZxcnRocXE3aXF1eDVmNWNsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e6tA359EUw2kqhOBHL/giphy.gif" width="150"/>
 </div>
+-->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nisarg-upadhyay-156643287/">
@@ -15,10 +21,6 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=NisargUpadhyayIITJ&style=flat-square&color=blue" alt=""/>
 </div>
-
-<br>
-
-<img src="github_banner.png"></img>
 
 <br>
 
