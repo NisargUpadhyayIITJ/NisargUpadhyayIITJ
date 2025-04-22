@@ -16,9 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=NisargUpadhyayIITJ&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  Hi! My name is Nisarg Upadhyay
-</h1>
+<img src="Banner.png"></img>
 
 <br>
 
