@@ -16,7 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=NisargUpadhyayIITJ&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="Banner.png"></img>
+<br>
+
+<img src="github_banner.png"></img>
 
 <br>
 
